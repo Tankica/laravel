@@ -28,6 +28,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
@@ -119,6 +122,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1TeZaYKXYxsMFiLmboF8YlqjhxM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/admin/assets/imgs" />
@@ -176,11 +180,22 @@
       <workItem from="1575128491717" duration="13000" />
       <workItem from="1575581516184" duration="553000" />
       <workItem from="1575914156706" duration="5015000" />
-      <workItem from="1575936052743" duration="1761000" />
+      <workItem from="1575936052743" duration="2249000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
